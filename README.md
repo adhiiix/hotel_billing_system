@@ -1,2 +1,4 @@
-# hotel_billing_system
-A hotel billing system
+# Hotel-Billing-System
+A Hotel Billing System Built With Python &amp; MySQL Database !!
+
+Developed By Jebin Santhosh !!
